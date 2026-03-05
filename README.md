@@ -21,7 +21,7 @@ We recommend to use the [GitHub download feature](https://docs.github.com/en/rep
 
 - [Ásgeir Gunnarsson](https://www.linkedin.com/in/asgeirgun/)​, MVP, Partner @ data lab
 - [Lars Andersen](https://www.linkedin.com/in/mslars/)​, Program Manager @ Fabric CAT
-- [Just Blindbæk](https://www.linkedin.com/in/blindbaek/)​, MVP, Field CTO @ Tabular Editor
+- [Benni de Jagere](https://www.linkedin.com/in/bennidejagere/)​, MVP, Field CTO @ Tabular Editor
 
 ![Speaker](/Extra/speakers.png)
 
